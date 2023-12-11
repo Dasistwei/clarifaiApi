@@ -6,6 +6,8 @@
   height: 60px;
   position: absolute;
   display: flex;
+  justify-content: center;
+  cursor: pointer;
   /* top: 0px; */
   /* border: 3px solid red; */
   box-shadow: 0 0 0 3px red inset;
